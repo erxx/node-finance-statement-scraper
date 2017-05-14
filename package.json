@@ -38,6 +38,6 @@
     "grunt-eslint": "*",
     "grunt-mocha-test": "*",
     "grunt-version-check": "*",
-    "mocha": "*"
+    "mocha": ">=3.4.1"
   }
 }
